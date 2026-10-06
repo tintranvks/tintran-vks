@@ -1,0 +1,7 @@
+{
+  "name": "Chronos - Lịch & Quản Lý Công Việc Thời Gian Thực",
+  "description": "Hệ thống lịch thời gian thực, quản lý sự kiện phát sinh, nhắc nhở thông minh theo mức độ ưu tiên, đồng bộ đa thiết bị bảo mật tuyệt đối với mã hóa đầu-cuối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
